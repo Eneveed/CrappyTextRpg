@@ -1,0 +1,12 @@
+--just messing around with lua
+
+message = ("it worked")
+
+local yadi = 0
+while yadi < 10 do
+ yadi = yadi + 1
+end
+
+if yadi = 10 then
+ print(message)
+end
